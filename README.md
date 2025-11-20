@@ -1,2 +1,14 @@
-# ClarkKent
-I created a repository named exactly the same as my GitHub account for Lecture Assignment 6. I also uploaded my GitHub account link along with the certificate as required.
+👤 Name: Clark Kent P. Zuñiga
+
+🎓 Education: 2nd Year Bachelor of Science in Information Technology (BSIT) New Era University, Quezon City
+
+📜 Certifications:
+SQL and Relational Databases 101 (DB0101EN) – Successfully completed and passed, provided by IBM via Cognitive Class 
+https://courses.cognitiveclass.ai/certificates/7037501a610e47078e59f53d4d15978a
+
+💻 Skillsets:
+SQL (Queries, Joins, Database Basics)
+HTML & CSS
+Basic Networking
+Computer Troubleshooting
+Problem-Solving & Logical Thinking
