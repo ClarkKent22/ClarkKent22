@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I am a dedicated BS Information Technology student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
 
-## 🎓 Education: 2nd Year Bachelor of Science in Information Technology
+## 🎓 Education: 
+2nd Year Bachelor of Science in Information Technology
 New Era University, Quezon City
 
 ## 📜 Certifications:
