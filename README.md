@@ -7,8 +7,9 @@ Welcome to my GitHub profile! I am a dedicated BS Information Technology student
 New Era University, Quezon City
 
 ## 📜 Certifications:
-SQL and Relational Databases 101 (DB0101EN) — IBM via Cognitive Class
+SQL and Relational Databases 101 (DB0101EN) — IBM via Cognitive Class<br>
 <a href = "https://courses.cognitiveclass.ai/certificates/7037501a610e47078e59f53d4d15978a">SQL and Relational Databases 101</a>
+
 ## 💻 Skillsets:
 SQL (Queries, Joins, Database Basics)
 HTML & CSS
