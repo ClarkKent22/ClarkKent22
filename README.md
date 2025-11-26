@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a dedicated BS Information Technology student
 
 📜 Certifications:
 SQL and Relational Databases 101 (DB0101EN) – Successfully completed and passed, provided by IBM via Cognitive Class 
-<a href = "https://courses.cognitiveclass.ai/certificates/7037501a610e47078e59f53d4d15978a">SQL Databases Management 101</a>
+<a href = "https://courses.cognitiveclass.ai/certificates/7037501a610e47078e59f53d4d15978a">SQL and Relational Databases 101</a>
 
 💻 Skillsets:
 SQL (Queries, Joins, Database Basics)
