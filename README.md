@@ -20,9 +20,18 @@ New Era University, Quezon City
 - **Oracle Cloud Data Management Foundations Associate (Certified)**  
   [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3CB787BF73912B80CC0632DB1B0AEC4C3048914C7017585ACF458EB4CA00BAE9)
 
-## 💻 Skillsets:
-SQL (Queries, Joins, Database Basics)
-HTML & CSS
-Basic Networking
-Computer Troubleshooting
-Problem-Solving & Logical Thinking
+🛠️ Skills & Attributes
+
+### Technical Skills
+- **Java** — Basic to intermediate; capable of building simple apps and features  
+- **HTML / CSS** — Creates clean, structured, and responsive web pages  
+- **PHP** — Builds backend logic and connects applications to databases  
+- **SQL** — Writes queries and manages relational databases  
+- **Canva Design** — Designs simple, clean UI mockups and visual layouts  
+
+### Attributes
+- **Fast Learner** — Quickly adapts to tools, concepts, and project needs  
+- **Detail-Oriented** — Produces organized, clean, and accurate work  
+- **Problem Solver** — Identifies issues and delivers effective solutions  
+- **Team Player** — Works well and communicates effectively in groups  
+- **Creative** — Strong in layout design and visual creativity using Canva  
