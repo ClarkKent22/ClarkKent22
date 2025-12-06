@@ -20,7 +20,7 @@ New Era University, Quezon City
 - **Oracle Cloud Data Management Foundations Associate (Certified)**  
   [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3CB787BF73912B80CC0632DB1B0AEC4C3048914C7017585ACF458EB4CA00BAE9)
 
-🛠️ Skills & Attributes
+## 🛠️ Skills & Attributes
 
 ### Technical Skills
 - **Java** — Basic to intermediate; capable of building simple apps and features  
