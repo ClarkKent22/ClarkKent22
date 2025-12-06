@@ -12,7 +12,7 @@ SQL and Relational Databases 101 (DB0101EN) — IBM via Cognitive Class<br>
 Oracle Cloud Data Management Foundations Associate (Certified)
 
 Oracle Cloud Infrastructure (OCI) Foundations Associate
-https://catalog-education.oracle.com/ords/certview/sharebadge?id=0B8F4D6021173C8B4AB8B547865EAE2531F52A46FFE94FE9C3CCF5ACEE2C4A51
+<a https://catalog-education.oracle.com/ords/certview/sharebadge?id=0B8F4D6021173C8B4AB8B547865EAE2531F52A46FFE94FE9C3CCF5ACEE2C4A51</a>
 OCI AI Foundations Associate (2025) 
 
 ## 💻 Skillsets:
