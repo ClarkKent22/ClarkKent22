@@ -39,6 +39,7 @@ _New Era University — Quezon City_
 - **Team Player** — Works well and communicates effectively in groups  
 - **Creative** — Strong in layout design and visual creativity using Canva  
 
+## Personal Project
 * [NEU LIBRARY VISITOR LOG](https://neu-libraryvisitorlog.page.gd/)
 
 
