@@ -38,3 +38,6 @@ _New Era University — Quezon City_
 - **Problem Solver** — Identifies issues and delivers effective solutions  
 - **Team Player** — Works well and communicates effectively in groups  
 - **Creative** — Strong in layout design and visual creativity using Canva  
+
+[NEU LIBRARY VISITOR LOG](https://neu-libraryvisitorlog.page.gd/)
+
